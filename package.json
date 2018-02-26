@@ -1,0 +1,12 @@
+{
+  "name": "stuha-client",
+  "version": "19.0.1",
+  "description": "Client side of Stuha",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  },
+  "scripts": {
+    "start": "gulp"
+  }
+}
